@@ -22,6 +22,9 @@ React Event App is a simple React application that demonstrates fundamental Reac
 - Upon loading the application, a list of events is displayed with a prompt to "Click on an option of events to show registration status" by default.
 - Clicking on an event highlights its image and displays the event's registration status.
 
+## Screenshots
+    - Previews of UI is uploaded with names "registration-open-preview, registration-done-preview, registration-closed-preview" along with files
+
 ## Installation
 
 Follow the steps below to run the React Event App on your local machine:
@@ -84,6 +87,10 @@ react-event-app
 ├── public
 │   ├── index.html
 ├── package.json
+├── registration-open-preview.png
+├── registration-done-preview.png
+├── registration-closed-preview.png
+
 └── README.md
 
 ```
