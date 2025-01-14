@@ -23,7 +23,7 @@ React Event App is a simple React application that demonstrates fundamental Reac
 - Clicking on an event highlights its image and displays the event's registration status.
 
 ## Screenshots
-    - Previews of UI is uploaded with names "registration-open-preview, registration-done-preview, registration-closed-preview" along with files
+    Previews of UI is uploaded with names "registration-open-preview, registration-done-preview, registration-closed-preview" along with files
 
 ## Installation
 
@@ -90,7 +90,6 @@ react-event-app
 ├── registration-open-preview.png
 ├── registration-done-preview.png
 ├── registration-closed-preview.png
-
 └── README.md
 
 ```
